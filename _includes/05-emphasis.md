@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some key skills and attributes:
+* *Python*, *MATLAB*, *C++*
+* Version Control, AWS, Tensorflow
+* Data Science, Data Mining, Deep Learning
